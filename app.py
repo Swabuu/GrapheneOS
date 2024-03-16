@@ -2,7 +2,7 @@ import streamlit as st
 
 st.markdown ("""### GrapheneOS
 
-- [Full Setup Guide, maximise Privacy, Security & Battery after Installation](https://youtu.be/dPXu-XKxBT4) - author's youtube: [DigitalIndependent](https://www.youtube.com/@DigitalIndependent)
+- [Full Setup Guide, maximise Privacy, Security & Battery after Installation](https://youtu.be/dPXu-XKxBT4) - author's youtube: [Digital Independent](https://www.youtube.com/@DigitalIndependent)
 
 #### Which devices are **supported**?
 GrapheneOS has official production support for the following devices:
