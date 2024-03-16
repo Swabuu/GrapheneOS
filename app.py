@@ -1,8 +1,20 @@
 import streamlit as st
 
-st.markdown ("""### GrapheneOS
+st.markdown ("""### **GrapheneOS**
 
-- [Full Setup Guide, maximise Privacy, Security & Battery after Installation](https://youtu.be/dPXu-XKxBT4) - author's youtube: [Digital Independent](https://www.youtube.com/@DigitalIndependent)
+The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project.
+
+### Summary 
+
+GrapheneOS is like a supercharged shield for your smartphone, making it super secure and private. It's like having a bodyguard for your phone against hackers and snoops.
+
+Started in 2014, it was originally called CopperheadOS. But now, GrapheneOS focuses on making your phone extra safe by fixing lots of common problems that hackers might use to break in. It's like adding extra locks and alarms to your phone.
+
+When you use GrapheneOS, it's like your phone becomes a fortress. It's designed to keep your personal stuff safe, like photos, messages, and passwords, from prying eyes. Plus, it doesn't have any sneaky Google apps or services spying on you.
+
+And the best part? You don't need to be a tech whiz to use it. GrapheneOS tries to make things simple, so you can stay safe without having to worry about complicated settings or options. It's like having a tough bodyguard who works quietly in the background, keeping you safe without you even noticing.
+
+- [Full Setup Guide, maximise Privacy, Security & Battery after Installation](https://youtu.be/dPXu-XKxBT4) - author's youtube: [DigitalIndependent](https://www.youtube.com/@DigitalIndependent)
 
 #### Which devices are **supported**?
 GrapheneOS has official production support for the following devices:
